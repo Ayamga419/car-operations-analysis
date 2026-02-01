@@ -28,3 +28,10 @@ USA car auction dataset with 2,499 listings.
 - Focus premium inventory in high-price states
 - Optimize pricing based on mileage depreciation
 - Leverage auction timing to maximize revenue
+
+- ## Tableau Dashboard
+
+Interactive dashboard link:  
+https://public.tableau.com/authoring/AutomotiveOperationsDashboard/AutomotiveInventoryPricingPerformance#2
+
+
