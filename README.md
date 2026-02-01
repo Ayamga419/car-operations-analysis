@@ -32,7 +32,7 @@ USA car auction dataset with 2,499 listings.
 - ## Tableau Dashboard
 
 Interactive dashboard link:  
-https://public.tableau.com/authoring/AutomotiveOperationsDashboard/AutomotiveInventoryPricingPerformance#2
+https://public.tableau.com/app/profile/frederick.ayamga/viz/AutomotiveOperationsDashboard/AutomotiveInventoryPricingPerformance
 
 ## Dashboard Preview
 
