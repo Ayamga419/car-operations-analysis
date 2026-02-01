@@ -37,7 +37,7 @@ https://public.tableau.com/authoring/AutomotiveOperationsDashboard/AutomotiveInv
 ## Dashboard Preview
 
 ![Dashboard Overview](dashboard_overview.png)
-![Dashboard Detail](Inventory by state.png)
+![Dashboard Detail](Inventory_by_state.png)
 
 
 
